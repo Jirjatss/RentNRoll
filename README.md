@@ -6,7 +6,6 @@ Aplikasi ini menerpakan metode CRUD dengna role dari sisi user dan admin
 # About
 
 <img width="947" alt="image" src="http://tinyurl.com/bdd6skzu">
-<img width="947" alt="image" src="http://tinyurl.com/mr4c4spe">
 <img width="947" alt="image" src="http://tinyurl.com/2ez439ee">
 <img width="947" alt="image" src="http://tinyurl.com/bdz7fdc">
 <img width="947" alt="image" src="http://tinyurl.com/39ekac2u">
